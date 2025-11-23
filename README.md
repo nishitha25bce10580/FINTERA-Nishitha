@@ -7,7 +7,7 @@ A New Age of Financial Management
 
 Fintera is a modern, full-featured personal financial management application designed to help users take control of their money. From tracking daily expenses to visualizing long-term budgeting goals, Fintera provides the insights needed to make smart financial decisions. Our focus is on a clean, intuitive user experience paired with powerful, real-time data analysis.
 
-✨ Core Features
+## ✨ Core Features
 
 Fintera is built to provide an all-in-one platform for your financial needs:
 
@@ -22,7 +22,7 @@ Goal Setting: Define and track savings goals (e.g., retirement, down payment) an
 Financial Reports: Generate income vs. expense summaries and summary-ready documentation.
 
 Data Security: All financial data is secured using industry-standard encryption protocols.
- # 🚀 Features
+ ## 🚀 Features
 ✅ A unique system to handel the finanial conditions.
 
 ✅ Easy to understand by showing all transactions in a tabular format.
@@ -36,7 +36,7 @@ Data Security: All financial data is secured using industry-standard encryption 
 ✅ Analyze Purpose-wise spending through bar charts.
 
 
-# 🚀 KEY SCOPES -
+## 🚀 Key Scopes 
 GRAPHICAL USER INTERFACE
 
 Migrating from the command line to a visual interface using a library like Tkinter or PyQt.
